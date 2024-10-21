@@ -1,0 +1,10 @@
+{
+  "name": "Congruence.Editor.Main",
+  "rootNamespace": "global::Congruence.Editor.Main",
+  "includePlatforms": ["Editor"],
+  "noEngineReferences": true,
+  "allowUnsafeCode": false,
+  "references": ["GUID:b6cb1b2805cd47d298a0dd7ceb5ba718"],
+  "overrideReferences": true,
+  "precompiledReferences": ["INIFileParser.dll"]
+}

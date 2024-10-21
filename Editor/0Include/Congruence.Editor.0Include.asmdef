@@ -1,0 +1,8 @@
+{
+  "name": "Congruence.Editor.0Include",
+  "includePlatforms": ["Editor"],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "INIFileParser.dll"
+  ]
+}
